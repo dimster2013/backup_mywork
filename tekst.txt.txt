@@ -1,3 +1,7 @@
 jhsdfjkhsdkfsd
 
+<<<<<<< HEAD
 hi from backup local
+=======
+from: my work local
+>>>>>>> 34ffcc8ad45b5a56443662c7f8bf3f12ceb41004
